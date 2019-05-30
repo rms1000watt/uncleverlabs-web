@@ -1,4 +1,4 @@
-baseURL = "https://uncleverlabs.com"
+baseURL = "//uncleverlabs.com"
 title   = "Unclever Labs: A Collective of Lazy Developers"
 
 DefaultContentLanguage = "en"
