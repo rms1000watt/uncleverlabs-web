@@ -1,6 +1,6 @@
 {{ define "main" }}
     <main aria-role="main">
-        <div>
+        <div class="main_inner">
             <h1>{{ .Site.Title }}</h1>
 
             {{- with .Site.Params.homeSubtitle }}
@@ -14,4 +14,12 @@
             {{- end }}
         </div>
     </main>
+
+    <span>Look at who we are!</span>
+    <span class="down_arrow">&#8681;</span>
+    <section class="people">
+        {{- with .Site.Params.people }}
+            {{ partial "people.html" . }}
+        {{- end }}
+    </section>
 {{ end }}

@@ -1,5 +1,5 @@
 baseURL = "//uncleverlabs.com"
-title   = "Unclever Labs: A Collective of Lazy Developers"
+title   = "A Collective of Lazy Developers"
 
 DefaultContentLanguage = "en"
 
@@ -78,7 +78,8 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    # logoText     = "$ cd /home/"
+    logoText     = "Unclever Labs"
     logoHomeLink = "/"
 
   # Social icons
@@ -98,6 +99,25 @@ disableHugoGeneratorInject = false
   #   name = "linkedin"
   #   url  = "https://www.linkedin.com/in/ryanmatthewsmith"
 
+  [[params.people]]
+    name = "todo"
+
+  [[params.people]]
+    name = "todo"
+  [[params.people]]
+    name = "todo"
+  [[params.people]]
+    name = "todo"
+  [[params.people]]
+    name = "todo"
+  [[params.people]]
+    name = "todo"
+
+  [[params.build]]
+    name = "Serverless TF"
+    description = "Serverless framework in Terraform"
+    github = "github.com/rms1000watt/serverless-tf"
+
 [languages]
   [languages.en]
     subtitle  = "Unclever Labs: A Collective of Lazy Developers"
@@ -109,7 +129,14 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
+    weight     = 2
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 3

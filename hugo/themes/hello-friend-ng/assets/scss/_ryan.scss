@@ -1,0 +1,48 @@
+.main_inner {
+  padding-top: 25vh;
+  width: 100vw;
+  height: 75vh;
+}
+
+.down_arrow{
+  font-size: 3rem;
+}
+
+
+.people {
+  padding: 10%;
+  width: 100vw;
+  min-height: 75vh;
+  display: grid;
+}
+
+.people > div {
+  padding: 1em;
+}
+
+.people > div > h2 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .people {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .people {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .people {
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+  }
+}
+
+.person {}
