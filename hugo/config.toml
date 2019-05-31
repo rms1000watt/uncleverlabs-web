@@ -82,21 +82,21 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  # [[params.social]]
+  #   name = "twitter"
+  #   url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+  # [[params.social]]
+  #   name = "email"
+  #   url  = "mailto:nobody@example.com"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+  # [[params.social]]
+  #   name = "github"
+  #   url  = "https://github.com/rms1000watt"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+  # [[params.social]]
+  #   name = "linkedin"
+  #   url  = "https://www.linkedin.com/in/ryanmatthewsmith"
 
 [languages]
   [languages.en]

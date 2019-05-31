@@ -13,3 +13,9 @@ We're a handpicked collective of developers, engineers and managers who like to 
 - [ ] Add pictures of everyone on the front page
 - [ ] Add more words to the `About` page
 - [ ] Add more words on the `Home` page
+
+### Credits
+
+- Theme by [rhazdon](https://github.com/rhazdon)
+- Built with [Hugo](https://gohugo.io)
+- Deployed with [Netlify](https://www.netlify.com/)
