@@ -123,7 +123,10 @@ disableHugoGeneratorInject = false
     linkedin = "ryanmatthewsmith"
     github = "rms1000watt"
   [[params.people]]
-    name = "TODO: J K"
+    name = "Justin King"
+    title = "DevOps"
+    photoURL = "https://media.licdn.com/dms/image/C4D03AQEPhVcFD4wQ-g/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=cx_lPcKaifO_u7NL8NzqF7FWi3yE6YC9CzZYjgWNyO8"
+    linkedin = "justin-king-26a4081b"
   [[params.people]]
     name = "Andy McIntosh"
     title = "Product"
@@ -131,11 +134,18 @@ disableHugoGeneratorInject = false
     linkedin = "andrew-mcintosh-6079324a"
     twitter = "andymmmmc"
   [[params.people]]
-    name = "TODO: C T"
-  [[params.people]]
-    name = "TODO: B M"
+    name = "Blake Melcher"
+    title = "IT Eng"
+    photoURL = "https://media.licdn.com/dms/image/C5603AQH_FsRxQE3pVQ/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=l7irkrF1Wri_vkT68uVNH4NATDXRJuSKW_yEBDBKhKg"
+    linkedin = "blakemelcher"
   [[params.people]]
     name = "TODO: F R"
+  [[params.people]]
+    name = "TODO: R P"
+  [[params.people]]
+    name = "TODO: C T"
+  [[params.people]]
+    name = "TODO: M M"
 
   [[params.build]]
     name = "Serverless TF"
