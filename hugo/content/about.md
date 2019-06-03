@@ -8,7 +8,7 @@ aliases = ["about-us"]
 
 We're a handpicked collective of developers, engineers and managers who like to keep things simple by not being _too_ clever.
 
-We're not a consultancy; we're not a startup; Unclever Labs doesn't earn money. We're just a group of people discuss tech ideas amongst ourselves!
+We're not a consultancy; we're not a startup; Unclever Labs doesn't earn money. We're just a group of people who discuss tech ideas!
 
 Please feel free to reach out to us for ideation and good conversations! Most of us are based in Orange County, CA.
 
