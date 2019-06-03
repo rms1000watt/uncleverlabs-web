@@ -100,18 +100,37 @@ disableHugoGeneratorInject = false
   #   url  = "https://www.linkedin.com/in/ryanmatthewsmith"
 
   [[params.people]]
-    name = "todo"
-
+    name = "Mike Cherry"
+    title = "Software"
+    photoURL = "https://media.licdn.com/dms/image/C4E03AQHMCsi4HmXJAA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=8E4EqR6FIidnbSI2qm_yY4a0_DEDqshtisBd7Ad9FEs"
+    linkedin = "mikec2"
   [[params.people]]
-    name = "todo"
+    name = "Chris Stobie"
+    title = "DevOps"
+    photoURL = "https://media.licdn.com/dms/image/C5603AQFuZKevEYkaoA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=HFt59sJOcmar9g_EXUZWfrZjCMcCR21mC6mMsdLcBWk"
+    linkedin = "cstobie"
+    github = "lanmalkieri"
   [[params.people]]
-    name = "todo"
+    name = "Jonathan Tobe"
+    title = "Software"
+    photoURL = "https://media.licdn.com/dms/image/C4D03AQF8mVU7wu6dsQ/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=ur1JpeKfReQWxMPfy_cAeEMDbSauXBwOY2ry5Rk25K8"
+    linkedin = "jonathan-tobe-76a50819"
   [[params.people]]
-    name = "todo"
+    name = "Ryan Smith"
+    title = "DevOps"
+    gravatarHash = "26e059f135386262f6c4bb3c90de1027"
+    linkedin = "ryanmatthewsmith"
+    github = "rms1000watt"
   [[params.people]]
-    name = "todo"
+    name = "TODO: J K"
   [[params.people]]
-    name = "todo"
+    name = "TODO: A M"
+  [[params.people]]
+    name = "TODO: C T"
+  [[params.people]]
+    name = "TODO: B M"
+  [[params.people]]
+    name = "TODO: F R"
 
   [[params.build]]
     name = "Serverless TF"

@@ -8,7 +8,6 @@
   font-size: 3rem;
 }
 
-
 .people {
   padding: 10%;
   width: 100vw;
@@ -45,4 +44,23 @@
   }
 }
 
-.person {}
+.person > img {
+  height: 128px;
+  width: 128px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.person > h4 {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+.person > span > a {
+  text-decoration: none;
+}
+
+.person > p {
+  display: inline-block;
+  margin-top: 0px;
+}

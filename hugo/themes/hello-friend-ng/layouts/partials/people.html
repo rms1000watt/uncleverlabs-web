@@ -1,6 +1,14 @@
-{{ range . -}}
+{{ range . | shuffle -}}
+{{- if or .gravatarHash .photoURL -}}
 <div class="person">
-  <h2>{{ .name }}</h2>
+  {{ if .gravatarHash }}
+  <img src="https://www.gravatar.com/avatar/{{ .gravatarHash }}?s=256">
+  {{ else if .photoURL }}
+  <img src="{{ .photoURL }}">
+  {{ end }}
+  <h4>{{ .name }}</h4><br>
+  <p>{{ .title }}</p><br>
+  <span>{{ partial "icon-github.html" . }} &nbsp;{{ partial "icon-linkedin.html" . }} &nbsp;{{ partial "icon-email.html" . }}</span>
 </div>
 {{- end -}}
-
+{{- end -}}
