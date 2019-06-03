@@ -1,5 +1,4 @@
 baseURL = "//uncleverlabs.com"
-# title   = "A Collective of Lazy Developers"
 title   = "Unclever Labs"
 
 DefaultContentLanguage = "en"
@@ -55,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Unclever Labs: A Collective of Lazy Developers"
+  description = "A Collective of Lazy Developers"
   keywords = ""
   images = [""]
 
@@ -139,11 +138,11 @@ disableHugoGeneratorInject = false
     description = "Serverless framework in Terraform"
     github = "github.com/rms1000watt/serverless-tf"
 
-# [languages]
-#   [languages.en]
-#     subtitle  = "Unclever Labs: A Collective of Lazy Developers"
-#     weight    = 1
-#     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+[languages]
+  [languages.en]
+    subtitle  = "A Collective of Lazy Developers"
+    # weight    = 1
+    # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
