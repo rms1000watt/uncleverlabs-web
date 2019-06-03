@@ -6,9 +6,9 @@ aliases = ["about-us"]
   name = "rms1000watt"
 +++
 
-We're a handpicked collective of developers, engineers and managers who like to keep things simple by not being _too_ clever.
+We're a handpicked collective of developers, engineers, managers and leaders who like to keep things simple by not being _too_ clever.
 
-We're not a consultancy; we're not a startup; Unclever Labs doesn't earn money. We're just a group of people who discuss tech ideas!
+We're not a consultancy; we're not a startup; Unclever Labs doesn't earn money. Half of us have never even worked together 🤣. We're just a group of people who talk tech!
 
 Please feel free to reach out to us for ideation and good conversations! Most of us are based in Orange County, CA.
 
