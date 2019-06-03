@@ -125,7 +125,11 @@ disableHugoGeneratorInject = false
   [[params.people]]
     name = "TODO: J K"
   [[params.people]]
-    name = "TODO: A M"
+    name = "Andy McIntosh"
+    title = "Product"
+    photoURL = "https://pbs.twimg.com/profile_images/1967113482/Ink-meNEWa_200x200.png"
+    linkedin = "andrew-mcintosh-6079324a"
+    twitter = "andymmmmc"
   [[params.people]]
     name = "TODO: C T"
   [[params.people]]
