@@ -10,7 +10,7 @@ We're a handpicked collective of developers, engineers, managers and leaders who
 
 We're not a consultancy; we're not a startup; Unclever Labs doesn't earn money. Half of us have never even worked together 🤣. We're just a group of people who talk tech!
 
-Please feel free to reach out to us for ideation and good conversations! Most of us are based in Orange County, CA.
+Please feel free to reach out to us for ideation and good conversations! We're based in Orange County and San Francisco, CA.
 
 ## TODO
 
