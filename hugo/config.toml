@@ -154,6 +154,11 @@ disableHugoGeneratorInject = false
     title = "Data"
     photoURL = "https://media.licdn.com/dms/image/C4E03AQFay3wrEcUWKg/profile-displayphoto-shrink_800_800/0?e=1565827200&v=beta&t=aUE6eHxxTQUtH4J5lLr_nRzY_hnynCL1qVjOE677fek"
     linkedin = "chase-ward-34b54689"
+  [[params.people]]
+    name = "Mark Marcantano"
+    title = "DevOps/SCRUM"
+    photoURL = "https://media.licdn.com/dms/image/C4D03AQFT4Zsa4KPp5Q/profile-displayphoto-shrink_800_800/0?e=1565827200&v=beta&t=1yqRJdKbkYQ09nczvB4iopU_luRNxGEttwkyr6M7Jz4"
+    linkedin = "markthomasm"
 
   [[params.build]]
     name = "Serverless TF"
