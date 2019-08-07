@@ -144,7 +144,7 @@ disableHugoGeneratorInject = false
     name = "TODO: R P"
   [[params.people]]
     name = "Chad Thomas"
-    title = "Leadership"
+    title = "Mentorship"
     photoURL = "https://media.licdn.com/dms/image/C4E03AQElAVqncEIyHA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=K59VUzPipCTaHKrNpUXm5rm7ddlOHfXB7Xo6-4U5O28"
     linkedin = "iamchad"
   [[params.people]]
