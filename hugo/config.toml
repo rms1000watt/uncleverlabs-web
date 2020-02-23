@@ -103,18 +103,18 @@ disableHugoGeneratorInject = false
   [[params.people]]
     name = "Mike Cherry"
     title = "Software"
-    photoURL = "https://media.licdn.com/dms/image/C4E03AQHMCsi4HmXJAA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=8E4EqR6FIidnbSI2qm_yY4a0_DEDqshtisBd7Ad9FEs"
+    photoURL = "https://i.ibb.co/9gB8Ft1/mike-cherry.jpg"
     linkedin = "mikec2"
   [[params.people]]
     name = "Chris Stobie"
     title = "DevOps"
-    photoURL = "https://media.licdn.com/dms/image/C5603AQFuZKevEYkaoA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=HFt59sJOcmar9g_EXUZWfrZjCMcCR21mC6mMsdLcBWk"
+    photoURL = "https://i.ibb.co/p4sFxKp/chris-stobie.jpg"
     linkedin = "cstobie"
     github = "lanmalkieri"
   [[params.people]]
     name = "Jonathan Tobe"
     title = "Software"
-    photoURL = "https://media.licdn.com/dms/image/C4D03AQF8mVU7wu6dsQ/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=ur1JpeKfReQWxMPfy_cAeEMDbSauXBwOY2ry5Rk25K8"
+    photoURL = "https://i.ibb.co/bs8y1vw/john-tobe.jpg"
     linkedin = "jonathan-tobe-76a50819"
   [[params.people]]
     name = "Ryan Smith"
@@ -125,7 +125,7 @@ disableHugoGeneratorInject = false
   [[params.people]]
     name = "Justin King"
     title = "DevOps"
-    photoURL = "https://media.licdn.com/dms/image/C4D03AQEPhVcFD4wQ-g/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=cx_lPcKaifO_u7NL8NzqF7FWi3yE6YC9CzZYjgWNyO8"
+    photoURL = "https://i.ibb.co/3RML0Ws/justin-king.jpg"
     linkedin = "justin-king-26a4081b"
   [[params.people]]
     name = "Andy McIntosh"
@@ -136,7 +136,7 @@ disableHugoGeneratorInject = false
   [[params.people]]
     name = "Blake Melcher"
     title = "IT Eng"
-    photoURL = "https://media.licdn.com/dms/image/C5603AQH_FsRxQE3pVQ/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=l7irkrF1Wri_vkT68uVNH4NATDXRJuSKW_yEBDBKhKg"
+    photoURL = "https://i.ibb.co/bvdNN87/blake-melcher.jpg"
     linkedin = "blakemelcher"
   [[params.people]]
     name = "TODO: F R"
@@ -145,19 +145,19 @@ disableHugoGeneratorInject = false
   [[params.people]]
     name = "Chad Thomas"
     title = "Leadership"
-    photoURL = "https://media.licdn.com/dms/image/C4E03AQElAVqncEIyHA/profile-displayphoto-shrink_800_800/0?e=1565222400&v=beta&t=K59VUzPipCTaHKrNpUXm5rm7ddlOHfXB7Xo6-4U5O28"
+    photoURL = "https://i.ibb.co/Bgwz3Gk/chad-thomas.jpg"
     linkedin = "iamchad"
   [[params.people]]
     name = "TODO: M M"
   [[params.people]]
     name = "Chase Ward"
     title = "Data"
-    photoURL = "https://media.licdn.com/dms/image/C4E03AQFay3wrEcUWKg/profile-displayphoto-shrink_800_800/0?e=1565827200&v=beta&t=aUE6eHxxTQUtH4J5lLr_nRzY_hnynCL1qVjOE677fek"
+    photoURL = "https://i.ibb.co/hRJhmGt/chase-ward.jpg"
     linkedin = "chase-ward-34b54689"
   [[params.people]]
     name = "Mark Marcantano"
     title = "DevOps/SCRUM"
-    photoURL = "https://media.licdn.com/dms/image/C4D03AQFT4Zsa4KPp5Q/profile-displayphoto-shrink_800_800/0?e=1565827200&v=beta&t=1yqRJdKbkYQ09nczvB4iopU_luRNxGEttwkyr6M7Jz4"
+    photoURL = "https://i.ibb.co/Nx2zc28/mark-marc.jpg"
     linkedin = "markthomasm"
 
   [[params.build]]
